@@ -1,8 +1,8 @@
 class Derp < Formula
   desc "Natural language grep for regex-challenged developers"
   homepage "https://github.com/syrex1013/derp"
-  url "https://registry.npmjs.org/derpgrep/-/derpgrep-0.1.1.tgz"
-  sha256 "f898b7196abdfdbf3fb74a5e16a0155f81da7a742d6f9ffa9d82166bbc021375"
+  url "https://registry.npmjs.org/derpgrep/-/derpgrep-0.1.2.tgz"
+  sha256 "2eae1edaa893f834ec1b05b81b7611197d297856a17fed0c2d72e2acfb6d7101"
   license "MIT"
 
   depends_on "node"
